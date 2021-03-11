@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Oke-clothings/static/css/main.80609b09.chunk.css",
+    "main.js": "/Oke-clothings/static/js/main.122a090a.chunk.js",
+    "main.js.map": "/Oke-clothings/static/js/main.122a090a.chunk.js.map",
+    "runtime-main.js": "/Oke-clothings/static/js/runtime-main.8fb176e0.js",
+    "runtime-main.js.map": "/Oke-clothings/static/js/runtime-main.8fb176e0.js.map",
+    "static/js/2.9ef4cbab.chunk.js": "/Oke-clothings/static/js/2.9ef4cbab.chunk.js",
+    "static/js/2.9ef4cbab.chunk.js.map": "/Oke-clothings/static/js/2.9ef4cbab.chunk.js.map",
+    "index.html": "/Oke-clothings/index.html",
+    "static/css/main.80609b09.chunk.css.map": "/Oke-clothings/static/css/main.80609b09.chunk.css.map",
+    "static/js/2.9ef4cbab.chunk.js.LICENSE.txt": "/Oke-clothings/static/js/2.9ef4cbab.chunk.js.LICENSE.txt",
+    "static/media/rown.3a4e2b15.svg": "/Oke-clothings/static/media/rown.3a4e2b15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb176e0.js",
+    "static/js/2.9ef4cbab.chunk.js",
+    "static/css/main.80609b09.chunk.css",
+    "static/js/main.122a090a.chunk.js"
+  ]
+}
